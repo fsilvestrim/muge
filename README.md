@@ -1,15 +1,12 @@
 Copyright 2009 Filipe Silvestrim
 http://www.filipesilvestrim.com
-filipe@silvestrim.com
 
 
 This file is part of MuGE (Multi-genre Game Engine).
 
-OGRE is proprietary software; you can NOT redistribute it and/or 
+MuGE is proprietary software; you can NOT redistribute it and/or 
 modify it under MY terms: that in resume are do not use it for any 
-propose that exceed the read and understand expectative. All of the 
-content that is in theses files (of this directory that the readme 
-are in) are under NDA!
+propose that exceed the read and understand expectative.
 
 MuGE is distributed in the hope that it will be useful just for
 studies proposes, but WITHOUT ANY WARRANTY; 
